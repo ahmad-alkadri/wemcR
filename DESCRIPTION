@@ -1,7 +1,7 @@
 Package: wemcR
 Type: Package
 Title: Wood EMC Calculator
-Version: 0.1.0
+Version: 0.1.1
 Author: Ahmad Alkadri
 Maintainer: Ahmad Alkadri <ahmad.alkadri@outlook.com>
 Description: Calculating the EMC (Equilibrium Moisture Content)
